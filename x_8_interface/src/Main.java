@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
-
-        Scanner input = new Scanner(System.in);
+    Scanner input = new Scanner(System.in);
 
         while (true) {
             System.out.print("isim giriniz: ");
