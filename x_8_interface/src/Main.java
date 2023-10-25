@@ -8,6 +8,7 @@ public class Main {
     Scanner input = new Scanner(System.in);
 
         while (true) {
+            //starting
             System.out.print("isim giriniz: ");
             String isim = input.next();
 
