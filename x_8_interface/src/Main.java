@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) throws InterruptedException {
     Scanner input = new Scanner(System.in);
-
+//start
         while (true) {
             //starting
             System.out.print("isim giriniz: ");
